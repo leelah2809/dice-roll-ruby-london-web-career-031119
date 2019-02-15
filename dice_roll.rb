@@ -4,7 +4,7 @@
 
 def roll (no)
    
- rand (1..6) # code goes here
+ #rand (1..6) # code goes here
  100.times no
 end
 roll([1,2,3,4,5,6])
